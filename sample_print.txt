@@ -1,0 +1,50 @@
+'''
+Sample Print Statement via Terminal, for running Santana's Black Magic Woman
+'''
+
+Filename: Black Magic Woman
+
+Ticks per Beat:                       960
+Beats per Measure (At Tick, # Beats): (0, 4), (637440, 6)
+Beat Values (At Tick, Beat Value):    (0, 4), (637440, 4)
+Tempo Changes (At Tick, Tempo):       (0, 120), (430080, 132), (430080, 126)
+Minimum Rest Beat Value:              1/64
+
+Primary Time Signature: 4/4 
+        (Measures: 1 - 165)
+
+Secondary Time Signature: None
+
+Tertiary Time Signature: None
+
+Resolving Note: D
+Primary Note(s): D; 52.349 Measures of playtime
+Secondary Note(s): A; 28.5633 Measures of playtime
+Tertiary Note(s): F; 13.8466 Measures of playtime
+
+Primary Key Signature(s): C ; (Major Ionian)
+        (Measures: 1 - 22, 34 - 108, 132, 136, 148 - 165)
+        Primary Note(s): D; 24.7445 Measures of playtime
+        Secondary Note(s): F; 12.4268 Measures of playtime
+        Tertiary Note(s): A; 9.6883 Measures of playtime
+
+Secondary Key Signature(s): G ; (Major Ionian)
+        (Measures: 109 - 131, 133 - 135, 137 - 147)
+        Primary Note(s): D; 25.75 Measures of playtime
+        Secondary Note(s): A; 17.125 Measures of playtime
+        Tertiary Note(s): Gb; 12.2081 Measures of playtime
+
+Tertiary Key Signature(s): F ; (Major Ionian)
+        (Measures: 23 - 33)
+        Primary Note(s): D; 1.8544 Measures of playtime
+        Secondary Note(s): A; 1.75 Measures of playtime
+        Tertiary Note(s): E; 1.5411 Measures of playtime
+
+Primary Key Mode(s): D Dorian
+        (Measures: 1 - 22, 34 - 108, 132, 136, 148 - 165)
+
+Secondary Key Mode(s): D Mixolydian
+        (Measures: 109 - 131, 133 - 135, 137 - 147)
+
+Tertiary Key Mode(s): D Aeolian (Minor)
+        (Measures: 23 - 33)
