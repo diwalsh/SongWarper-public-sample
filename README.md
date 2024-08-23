@@ -8,10 +8,10 @@ Song Warper is a collaborative machine learning project for musicians and songwr
 ### Included in this Sample:
 This public repository contains two files: `parser.py` and `runner.py`. \n
 `runner.py` contains the main script of the project, calling on several python files written with helper functions: 
-`* parser.py
-* tone_center.py
-* key_sig.py
-* chord_center.py
-* term_print.py`
+* `parser.py`
+* `tone_center.py`
+* `key_sig.py`
+* `chord_center.py`
+* `term_print.py`
 
 `parser.py` is also included, which contains the scripts for parsing the raw `.mid/.midi file` provided by the user. It uses `pandas DataFrames` to switch back and forth between analysis and printing to `.csv` files, plus terminal read outs of discoveries. 
