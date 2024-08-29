@@ -48,3 +48,16 @@ Secondary Key Mode(s): D Mixolydian
 
 Tertiary Key Mode(s): D Aeolian (Minor)
         (Measures: 23 - 33)
+
+Primary Key Signature(s) Chords: C ; (Major Ionian) / [Mode(s): D Dorian]
+        (Measures: 1 - 22, 34 - 108, 132, 136, 148 - 165)
+        [ REDACTED ]
+
+Secondary Key Signature(s) Chords: G ; (Major Ionian) / [Mode(s): D Mixolydian]
+        (Measures: 109 - 131, 133 - 135, 137 - 147)
+        [ REDACTED ]
+
+Tertiary Key Signature(s) Chords: F ; (Major Ionian) / [Mode(s): D Aeolian (Minor)]
+        (Measures: 23 - 33)
+        [ REDACTED ]
+
