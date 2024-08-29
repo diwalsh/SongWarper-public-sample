@@ -16,3 +16,5 @@ This public repository contains: `parser.py` which contains the scripts for pars
 * `term_print.py`
 
 It uses `pandas DataFrames` to switch back and forth between analysis and printing to `.csv` files, plus terminal read outs of discoveries. 
+
+A sample terminal print-out for the song Black Magic Woman by Santana, is also provided here.
